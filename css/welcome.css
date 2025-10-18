@@ -6,7 +6,7 @@
 div.container {
     width: 100%;
     height: 100vh;
-    background-image: url("pics/poster_85ef19ab-50ee-4b8d-8707-8c73f069843e.jpeg");
+    background-image: url("../pics/poster_85ef19ab-50ee-4b8d-8707-8c73f069843e.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
