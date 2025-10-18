@@ -5,7 +5,7 @@
 }
 body{
     background-color: lightgray;
-    background-image: url("/pics/m1.png");
+    background-image: url("pics/m1.png");
     background-size: 200px;
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -77,7 +77,7 @@ ul li a:hover{
     width: 820px;
     height: 170px;
     background-color: black;
-    background-image: url("/pics/m2.png"), url("/pics/m3.png");
+    background-image: url("pics/m2.png"), url("pics/m3.png");
     background-repeat: no-repeat;
     background-size: 160px;
     background-position: left, right;
@@ -113,7 +113,7 @@ table tbody tr td.cell3{
 }
 @font-face {
     font-family:'CormorantGaramond' ;
-    src: url("/fonts/CormorantGaramond-Light.ttf");
+    src: url("fonts/CormorantGaramond-Light.ttf");
 }
 @font-face {
     font-family:'FredokaOne' ;

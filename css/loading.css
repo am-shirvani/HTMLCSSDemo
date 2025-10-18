@@ -4,15 +4,15 @@
 }
 @font-face {
     font-family: 'BalsamiqSans';
-    src: url("/fonts/BalsamiqSans-Regular.ttf");
+    src: url("fonts/BalsamiqSans-Regular.ttf");
 }
 @font-face {
     font-family: 'CormorantGaramond';
-    src: url("/fonts/CormorantGaramond-Light.ttf");
+    src: url("fonts/CormorantGaramond-Light.ttf");
 }
 @font-face {
     font-family: 'FredokaOne';
-    src: url("/fonts/FredokaOne-Regular.ttf");
+    src: url("fonts/FredokaOne-Regular.ttf");
 }
 body {
     height: 100vh;
@@ -20,7 +20,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: black;
-    background-image: url(/pics/49e387e3748f514b3287b98d829f0c83dd49a6d0.gif);
+    background-image: url(pics/49e387e3748f514b3287b98d829f0c83dd49a6d0.gif);
     background-size: 100% 100%;
     animation: bodynone 0s linear 7s 1 normal forwards;
 }
