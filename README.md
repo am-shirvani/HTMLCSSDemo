@@ -19,5 +19,9 @@ To view the website properly, please open the files in the following order:
 ## How to Run
 Open the `.html` files in a web browser. Start with `loading.html` to see the loading screen first.
 
+## Links
+- GitHub Repository: [https://github.com/am-shirvani/HTMLCSSDemo](https://github.com/am-shirvani/HTMLCSSDemo)
+- Live Demo: [https://am-shirvani.github.io/HTMLCSSDemo/](https://am-shirvani.github.io/HTMLCSSDemo/)
+
 ## Author
 Amirmohsen Shirvani
