@@ -8,7 +8,7 @@ It is **not responsive**, so it works best on desktop screens.
 To view the website properly, please open the files in the following order:
 1. `loading.html` — the loading screen
 2. `welcome.html` — welcome page
-3. `site.html` — website
+3. `index.html` — website
 
 ## Features
 - Built with HTML5 and CSS3
